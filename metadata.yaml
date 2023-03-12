@@ -1,0 +1,29 @@
+_repo: Fruits-of-the-agathon_70240
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harness, Charles L.
+    alias: Harness, Charles Leonard
+    birthdate: 1915
+    deathdate: 2005
+    gutenberg_agent_id: '26099'
+    url: http://www.gutenberg.org/2009/agents/26099
+    wikipedia: https://en.wikipedia.org/wiki/Charles_L._Harness
+description: ''
+gutenberg_issued: '2023-03-08'
+identifiers:
+  gutenberg: '70240'
+language: en
+pgterms:marc905: 20220522045918harness
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStandard Magazines, Inc., $c1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fruits of the agathon
+url: http://www.gutenberg.org/ebooks/70240
